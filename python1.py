@@ -1,1 +1,2 @@
-impiort tkinter
+import tkinter
+import time
